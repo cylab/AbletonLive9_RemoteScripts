@@ -5,6 +5,8 @@ This is the unofficial repository of Ableton Live 9 MIDI Remote Scripts.
 You can checkout branches to switch to different Live versions.
 
 Currently available branches are:
+- *Live_9.2* - the Live 9.2 scripts
+- *Live_9.5* - the Live 9.5 scripts
 - *Live_9.6+Framework* - the Live 9.6 scripts, LiveControl and the framework
 - *Live_9.6* - only the 9.6 scripts and LiveControl, since the framework is available at
                *{Live Installation Folder}/Resources/Python/remote-script-framework*
